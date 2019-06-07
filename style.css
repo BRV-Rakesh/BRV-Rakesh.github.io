@@ -12,3 +12,10 @@
                 color:white;
                 background:darkslategrey;
             }
+            #box
+            {
+                background:white;
+                width:500px;
+                margin: 100px auto;
+                padding:50px
+            }
